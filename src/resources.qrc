@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>queen.svg</file>
+        <file>queen.ico</file>
+    </qresource>
+</RCC>
