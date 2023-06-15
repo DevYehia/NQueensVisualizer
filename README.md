@@ -1,6 +1,7 @@
 # NQueensVisualizer
 This Project aims to visualize the N-Queens Problem using C++ and Qt
-
+In the src folder, you can find the source code and images used
+In the app folder, you can find the built application so you can run it without having to build the code
 
 # The Problem
 Provided and n x n board. We need to try to place n queens on this board such that no 2 queens attack each other. This program generates all possible solutions for this problem (if any)
