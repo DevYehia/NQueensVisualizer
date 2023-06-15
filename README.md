@@ -1,6 +1,8 @@
 # NQueensVisualizer
 This Project aims to visualize the N-Queens Problem using C++ and Qt
-In the src folder, you can find the source code and images used
+
+In the src folder, you can find the source code and images used\n
+
 In the app folder, you can find the built application so you can run it without having to build the code
 
 # The Problem
